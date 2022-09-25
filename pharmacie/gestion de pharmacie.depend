@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1663717474 source:c:\users\omar\desktop\code blocks projects\gestion de pharmacie\main.c
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
